@@ -4,6 +4,8 @@
 Paper: https://arxiv.org/abs/2102.06171.pdf
 
 Original code: https://github.com/deepmind/deepmind-research/tree/master/nfnets
+ORIGINAL CODE: https://github.com/ypeleg/nfnets-keras
+THIS IS AN EDITED FORK
 
 Do star this repository if it helps your work!
 
